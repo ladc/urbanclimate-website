@@ -27,11 +27,13 @@ languages:
     params:
       homeInfoParams:
         Title: "Wat is de LEGO urban climate game?"
-        Content: >
-          ![](/assets/images/homepage.jpeg)
+        Content: |
+          <figure class="entry-cover">
+            <img loading="eager" src="/assets/images/homepage.jpeg" alt="Kinderen bouwen een klimaatresistente LEGO stad">
+            <p>Kinderen bouwen een klimaatresistente LEGO stad</p>
+          </figure>
 
           Je hebt het vast al gemerkt: het klimaat verandert! Extreem weer zoals hittegolven worden steeds heviger en komen vaker voor. Tijdens de zomer kunnen die hittegolven leiden tot een hogere temperatuur in steden ten opzichte van het platteland. Dit wordt het stedelijk hitte-eiland of urban heat island effect genoemd. Kortweg: tussen al het beton en de asfalt voel je de hitte des te meer, zeker 's nachts! Deze hoge temperatuur en hittestress kan leiden tot gezondheidsproblemen. Maar wat zou er gebeuren mochten we alle parkings ombouwen tot parken?
-
 
           Met de LEGO urban climate game ben jij de architect van de toekomst. Bouw je miniatuurstad met LEGO, en met behulp van artificiële intelligentie zie je meteen de impact van gebouwen, groen en water op de temperatuur. Kun jij je buurt klimaatresistent maken?
     menu:
@@ -58,11 +60,13 @@ languages:
     params:
       homeInfoParams:
         Title: "Qu'est-ce que le *LEGO urban climate game* ?"
-        Content: >
-          ![](/assets/images/homepage.jpeg)
+        Content: |
+          <figure class="entry-cover">
+            <img loading="eager" src="/assets/images/homepage.jpeg" alt="Les enfants construite une ville LEGO résistante au changement climatique">
+            <p>Les enfants construite une ville LEGO résistante au changement climatique</p>
+          </figure>
 
           Vous l'avez probablement déjà remarqué : le climat change ! Les conditions météorologiques extrêmes telles que les vagues de chaleur deviennent plus graves et plus fréquentes. Pendant l'été, ces vagues de chaleur peuvent entraîner des températures plus élevées dans les villes par rapport aux zones rurales. C'est ce qu'on appelle l'effet d'îlot de chaleur urbain. Bref : entre tout le béton et l'asphalte on ressent d'autant plus la chaleur, surtout la nuit ! Cette température élevée et le stress thermique peuvent entraîner des problèmes de santé. Mais que se passerait-il si nous convertissions tous les parkings en parcs ?
-
 
           Avec le LEGO urban climate game, vous êtes l'architecte du futur. Construisez votre ville miniature avec des LEGO, et avec l'aide de l'intelligence artificielle, vous pouvez immédiatement voir l'impact des bâtiments, de la verdure et de l'eau sur la température. Pouvez-vous rendre votre quartier résistant au climat ?
     menu:
@@ -89,11 +93,13 @@ languages:
     params:
       homeInfoParams:
         Title: "What is the LEGO urban climate game?"
-        Content: >
-          ![](/assets/images/homepage.jpeg)
+        Content: |
+          <figure class="entry-cover">
+            <img loading="eager" src="/assets/images/homepage.jpeg" alt="Children are building a climate resistant city">
+            <p>Children are building a climate resistant city</p>
+          </figure>
 
           You've probably already noticed: our climate is changing! Extreme weather such as heat waves become more severe and more frequent. During summer, these heat waves can lead to higher temperatures in cities compared to rural areas. This is called the urban heat island effect. In short, between the concrete and the asphalt you feel the heat more, especially at night! High temperatures and heat stress can lead to health problems. But what would happen if we converted all the car parks into parks?
-
 
           With the LEGO urban climate game, you are the architect of the future. Build your miniature city with LEGO, and with the help of artificial intelligence, you can immediately see the impact of buildings, greenspace and water on the temperature. Can you make your neighbourhood climate-resistant?
     menu:
@@ -136,6 +142,11 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 params:
   displayFullLangName: true
