@@ -12,4 +12,4 @@ Des enfants joyeux ont joué au LEGO urban climate game lors de la toute premiè
 
 <https://www.bruzz.be/select/events-festivals/eerste-editie-wetenschapsfestival-curieucity-leren-op-speelse-manier-2024>  
 
-![Participants au Festival de la curiosité, 3-5 mai 2024, Molenwest, Bruxelles](assets/images/curieucity1.jpg) 
+![Participants au CurieuCity, 3-5 mai 2024, Molenwest, Bruxelles](assets/images/curieucity1.jpg) 
