@@ -1,6 +1,5 @@
 ---
 title: "En savoir plus"
-ShowToc: true
 ---
 
 ## Ilot de chaleur urbain
