@@ -13,4 +13,4 @@ Blije kinderen speelden het LEGO-stadsklimaatspel tijdens de allereerste editie 
 
 <https://www.bruzz.be/select/events-festivals/eerste-editie-wetenschapsfestival-curieucity-leren-op-speelse-manier-2024>  
 
-![Deelnemers aan het Curieucity Festival, 3-5 mei 2024, Molenwest, Brussel](assets/images/curieucity1.jpg) 
+![Deelnemers aan het Curieucity Festival, 3-5 mei 2024, Molenwest, Brussel](/assets/images/curieucity1.jpg) 
