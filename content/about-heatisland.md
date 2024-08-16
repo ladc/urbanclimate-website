@@ -18,7 +18,7 @@ aanwezigheid van gebouwen kan deze warmte niet makkelijk ontsnappen.  Bovendien
 verhinderen gebouwen een goede ventilatie waardoor de warmte in de stad blijft
 hangen.
 
-![In de linker figuur ziet u de temperatuur en in de rechter figuur ziet u de vegetatiekaart van New York. Op plaatsen met weinig vegetatie is de temperatuur gemiddeld hoger. Bron: NASA via Wikimedia Commons](/assets/images/about/new_york_UHI.png)
+![In de linker figuur ziet u de temperatuur en in de rechter figuur de vegetatiekaart van New York. Op plaatsen met weinig vegetatie is de temperatuur gemiddeld hoger. Bron: NASA via Wikimedia Commons](/assets/images/about/new_york_UHI.png)
 
 ### Meten is weten
 
@@ -88,7 +88,7 @@ op, wat vervolgens langzaam naar de grond sijpelt of verdampt, waardoor
 wateroverlast afneemt. Bomen en planten versterken ook waterabsorptie in
 de bodem, een fenomeen bekend als infiltratie.
 
-![Stedelijke vs plattelandsomgeving](/assets/images/about/urban_rural.png)
+![Stedelijke en plattelandsomgeving](/assets/images/about/urban_rural.png)
 
 ### Rol van water in de stad 
 
