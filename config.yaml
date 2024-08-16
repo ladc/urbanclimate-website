@@ -138,10 +138,9 @@ outputs:
     - JSON # necessary for search
 
 params:
-  ShowShareButtons: true
   displayFullLangName: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowShareButtons: true
 
 #  socialIcons:
 #    - name: github
