@@ -2,9 +2,9 @@
 title: "Meer weten - Stedelijk hitte-eiland"
 ShowToc: true
 ---
-# De stad heeft een eigen klimaat
+## De stad heeft een eigen klimaat
 
-## Stadsklimaat, wat is dat?
+### Stadsklimaat, wat is dat?
 
 In de vroege 19de eeuw constateerde de Londense chemicus Luke Howard dat
 stedelijke klimaten verschillen van hun landelijke tegenhangers. Na jaren van
@@ -20,7 +20,7 @@ hangen.
 
 ![In de linker figuur ziet u de temperatuur en in de rechter figuur ziet u de vegetatiekaart van New York. Op plaatsen met weinig vegetatie is de temperatuur gemiddeld hoger. Bron: NASA via Wikimedia Commons](/assets/images/about/new_york_UHI.png)
 
-## Meten is weten
+### Meten is weten
 
 Systematische metingen zijn essentieel om het
 stadsklimaat te begrijpen en goede modellen op te stellen. De
@@ -40,7 +40,7 @@ ondernemen om de stad leefbaar te houden op lange termijn.
 
 ![Het VLINDER-weerstation op de VUB, in Etterbeek](/assets/images/about/vlinder-vub.png)
 
-## Effect op gezondheid en comfort
+### Effect op gezondheid en comfort
 
 In steden zoals Brussel kunnen dichtbebouwde delen tijdens een nacht volgend op
 een hete dag 10 °C warmer zijn dan het omliggende platteland. Te hoge
@@ -61,7 +61,7 @@ risico's voor mensen.
 ![De Anspachlaan, vroeger. Bron: Google Streetview](/assets/images/about/anspach_vroeger.png)
 ![De Anspachlaan, nu. Bron: Google Streetview](/assets/images/about/anspach_nu.png)
 
-## Vergroenen om te verkoelen
+### Vergroenen om te verkoelen
 
 Het verminderen van verharde oppervlakken in steden is cruciaal voor
 verkoeling, met groen en bomen als belangrijkste middelen tegen hittestress.
@@ -77,7 +77,7 @@ illustratie hieronder toont het verband tussen vegetatie en verdamping.
 
 ![De watercyclus in de stad en daarbuiten. Bron: USEPA, 2008.](/assets/images/about/urban_rural_hydrology.jpg)
 
-## Invloed op hitte, wind en water 
+#### Invloed op hitte, wind en water 
 
 De verkoelende effectiviteit hangt af van het groenvolume en de biomassa. Grote
 bomen met dichte kronen koelen meer dan kleinere bomen of die met dunne kronen.
@@ -90,7 +90,7 @@ de bodem, een fenomeen bekend als infiltratie.
 
 ![Stedelijke vs plattelandsomgeving](/assets/images/about/urban_rural.png)
 
-## Rol van water in de stad 
+### Rol van water in de stad 
 
 Stedelijk water zorgt overdag vaak voor verkoeling, maar zal 's nachts warmte
 afgeven als het water stilstaat.  Door de grotere warmtecapaciteit van water,
