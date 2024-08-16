@@ -34,6 +34,17 @@ languages:
 
 
           Met de LEGO urban climate game ben jij de architect van de toekomst. Bouw je miniatuurstad met LEGO, en met behulp van artificiële intelligentie zie je meteen de impact van gebouwen, groen en water op de temperatuur. Kun jij je buurt klimaatresistent maken?
+    menu:
+      main:
+        - name: Zoeken
+          url: search/
+          weight: 95
+        - name: Archief
+          url: archive/
+          weight: 99
+        - name: Tags
+          url: tags/
+          weight: 99
 
   fr:
     languageName: "Français"
@@ -48,27 +59,17 @@ languages:
 
 
           Avec le LEGO urban climate game, vous êtes l'architecte du futur. Construisez votre ville miniature avec des LEGO, et avec l'aide de l'intelligence artificielle, vous pouvez immédiatement voir l'impact des bâtiments, de la verdure et de l'eau sur la température. Pouvez-vous rendre votre quartier résistant au climat ?
-#     title: PaperModL2
-#     taxonomies:
-#       category: FRcategories
-#       tag: FRtags
-#       series: FRseries
-#     menu:
-#       main:
-#         - name: Archive
-#           url: archives/
-#           weight: 5
-#         - name: FRTags
-#           url: frtags
-#           weight: 10
-#         - name: FRCategories
-#           url: frcategories
-#           weight: 10
-#         - name: FRSeries
-#           url: frseries
-#           weight: 10
-#         - name: NullLink
-#           url: "#"
+    menu:
+      main:
+        - name: Recherche
+          url: search/
+          weight: 95
+        - name: Archive
+          url: archive/
+          weight: 99
+        - name: Tags
+          url: tags/
+          weight: 99
 
   en:
     languageName: "English"
@@ -83,23 +84,17 @@ languages:
 
 
           With the LEGO urban climate game, you are the architect of the future. Build your miniature city with LEGO, and with the help of artificial intelligence, you can immediately see the impact of buildings, greenspace and water on the temperature. Can you make your neighbourhood climate-resistant?
-#     taxonomies:
-#       category: categories
-#       tag: tags
-#       series: series
-#     menu:
-#       main:
-#         - name: Archive
-#           url: archives
-#           weight: 5
-#         - name: Search
-#           url: search/
-#           weight: 10
-#         - name: Tags
-#           url: tags/
-#           weight: 10
-#         - name: WiKi
-#           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 95
+        - name: Archive
+          url: archive/
+          weight: 99
+        - name: Tags
+          url: tags/
+          weight: 99
 
 #     # custom params for each language should be under [langcode].parms - hugo v0.120.0
 #     params:
@@ -118,11 +113,11 @@ languages:
 #           - name: Profile Mode
 #             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
-# outputs:
-#   home:
-#     - HTML
-#     - RSS
-#     - JSON
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 
 params:
 #   env: production # to enable google analytics, opengraph, twitter-cards and schema.
