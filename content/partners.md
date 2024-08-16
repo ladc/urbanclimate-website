@@ -1,6 +1,5 @@
 ---
 title: "Partners"
-layout: "single"
 ---
 
 [![ETRO VUB](/assets/images/partners/logo-vub-etro.png)](https://www.etrovub.be/)
