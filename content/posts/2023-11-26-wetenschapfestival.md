@@ -14,4 +14,4 @@ cover:
 
 Voor de jaarlijkse Dag van de Wetenschap werd er ook dit jaar een Wetenschapsfestival georganiseerd in het Brusselse MuntPunt. Wetenschapsfans van alle leeftijden speelden op 26 november 2023 het LEGO urban climate game en leerden zo spelenderwijs bij over klimaatadaptatie en AI.
 
-!(Banner wetenschapsfestival)[/assets/images/events/logo-wetenschapsfestival.jpg]
+![Banner wetenschapsfestival](/assets/images/events/logo-wetenschapsfestival.jpg)
