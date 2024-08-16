@@ -8,6 +8,6 @@ tags: ["markdown", "syntax", "code", "gist"]
 categories: ["themes", "syntax"]
 ---
 
-[abcde](https://curieucity.brussels/nl/edition/molenbeek/
+<https://curieucity.brussels/nl/edition/molenbeek/>
 
 This is a test!)
