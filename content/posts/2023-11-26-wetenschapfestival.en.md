@@ -7,7 +7,7 @@ summary: "LEGO urban climate game op het Wetenschapsfestival Brussel."
 tags: ["festival", "news", "Brussels"]
 categories: ["event"]
 cover:
-  image: "/assets/images/wetenschapsfestival2023.jpg"
+  image: "/assets/images/events/photos/wetenschapsfestival2023.jpg"
   alt: "Science Festival, 26 november 2023, MuntPunt, Brussels"
   caption: "Science Festival, 26 november 2023, MuntPunt, Brussels"
 ---

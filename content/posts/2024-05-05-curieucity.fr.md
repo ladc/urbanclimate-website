@@ -7,7 +7,7 @@ summary: "LEGO urban climate game au Festival CurieuCity à Bruxelles."
 tags: ["festival", "nouvelles", "presse", "Bruxelles"]
 categories: ["event"]
 cover:
-  image: "/assets/images/curieucity1.jpg"
+  image: "/assets/images/events/photos/curieucity1.jpg"
   alt: "Participants au CurieuCity, 3-5 mai 2024, Molenwest, Bruxelles"
   caption: "Participants au CurieuCity, 3-5 mai 2024, Molenwest, Bruxelles"
 ---
