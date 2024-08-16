@@ -36,6 +36,9 @@ languages:
           Met de LEGO urban climate game ben jij de architect van de toekomst. Bouw je miniatuurstad met LEGO, en met behulp van artificiële intelligentie zie je meteen de impact van gebouwen, groen en water op de temperatuur. Kun jij je buurt klimaatresistent maken?
     menu:
       main:
+        - name: Partners
+          url: partners/
+          weight: 91
         - name: Zoeken
           url: search/
           weight: 95
@@ -61,6 +64,9 @@ languages:
           Avec le LEGO urban climate game, vous êtes l'architecte du futur. Construisez votre ville miniature avec des LEGO, et avec l'aide de l'intelligence artificielle, vous pouvez immédiatement voir l'impact des bâtiments, de la verdure et de l'eau sur la température. Pouvez-vous rendre votre quartier résistant au climat ?
     menu:
       main:
+        - name: Partenaires
+          url: partners/
+          weight: 91
         - name: Recherche
           url: search/
           weight: 95
@@ -86,6 +92,9 @@ languages:
           With the LEGO urban climate game, you are the architect of the future. Build your miniature city with LEGO, and with the help of artificial intelligence, you can immediately see the impact of buildings, greenspace and water on the temperature. Can you make your neighbourhood climate-resistant?
     menu:
       main:
+        - name: Partners
+          url: partners/
+          weight: 91
         - name: Search
           url: search/
           weight: 95
