@@ -28,6 +28,15 @@ languages:
       homeInfoParams:
         Title: "Wat is de LEGO urban climate game?"
         Content: |
+          <!-- This script is there for legacy URLs (https://urbanclimate.be/?image=Analysis_13_10_2023_13_21_16) -->
+          <script>
+            var params = new URLSearchParams(location.search);
+            if (params.has("image")) {
+              var id = params.get("image").replace(/^Analysis_([0-9]{2})_([0-9]{2})_([0-9]{4})_([0-9]{2})_([0-9]{2})_([0-9]{2})$/, '$3$2$1-$4$5$6');
+              window.location.replace("/analysis/" + id);
+            }
+          </script>
+
           <figure class="entry-cover">
             <img loading="eager" src="/assets/images/homepage.jpeg" alt="Kinderen bouwen een klimaatresistente LEGO stad">
             <p>Kinderen bouwen een klimaatresistente LEGO stad</p>
