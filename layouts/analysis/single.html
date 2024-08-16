@@ -1,0 +1,23 @@
+{{- define "main" }}
+
+<article class="analysis-single">
+  <header class="post-header">
+    <h1 class="post-title entry-hint-parent">Koel je stad af - Rafraîchissez votre ville</h1>
+  </header>
+
+  <div class="post-content">
+    <h2>Voorbeeldstad - Ville exemple</h2>
+
+    <div>
+      IMAGE VOORBEELDSTAD
+    </div>
+
+    <h2>Mijn aanpassingen - Mes modifications</h2>
+
+    <img src="/assets/images{{ .Page.Path }}.jpg">
+
+    {{ .Page.Content }}
+  </div>
+</article>
+
+{{- end }}{{/* end main */}}
