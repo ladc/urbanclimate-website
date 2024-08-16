@@ -5,24 +5,12 @@ ShowToc: true
 
 ## Ilot de chaleur urbain
 
-IMAGE
-
-Blablalba
-
-[More info...]({{< ref "about-heatisland.fr.md" >}})
+[En savoir plus...]({{< ref "about-heatisland.fr.md" >}})
 
 ## Intelligence artificelle
 
-IMAGE
-
-Blablalba
-
-[More info...]({{< ref "about-ai.fr.md" >}})
+[En savoir plus...]({{< ref "about-ai.fr.md" >}})
 
 ## Observations citoyennes
 
-IMAGE
-
-Blablalba
-
-[More info...]({{< ref "about-observations.fr.md" >}})
+[En savoir plus...]({{< ref "about-observations.fr.md" >}})

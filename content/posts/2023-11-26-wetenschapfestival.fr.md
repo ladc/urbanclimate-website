@@ -4,7 +4,7 @@ title: "Festival des Sciences Bruxelles"
 date: "2023-11-26"
 description: "LEGO urban climate game au Festival des Sciences à Bruxelles."
 summary: "LEGO urban climate game au Festival des Sciences à Bruxelles."
-tags: ["festival", "news", "Brussels"]
+tags: ["festival", "nouvelles", "Bruxelles"]
 categories: ["event"]
 cover:
   image: "/assets/images/events/photos/wetenschapsfestival2023.jpg"

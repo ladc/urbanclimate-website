@@ -4,7 +4,7 @@ title: "I Love Science Festival"
 date: "2023-10-13"
 description: ""
 summary: ""
-tags: []
+tags: ["festival", "nieuws", "Brussel"]
 categories: ["event"]
 cover:
   image: ""
