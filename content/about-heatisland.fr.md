@@ -21,7 +21,7 @@ et la chaleur reste donc à l'intérieur de la ville.
 
 ![La carte de gauche montre la température et la carte de droite la végétation
 à New York. La température est en moyenne plus élevée là où la végétation est
-peu développée. Source: NASA via Wikimedia Commons](figures/new_york_UHI.png)
+peu développée. Source: NASA via Wikimedia Commons](/assets/images/about/new_york_UHI.png)
 
 ### Mesurer pour mieux comprendre 
 
@@ -41,7 +41,7 @@ températures urbaines augmentent. À cela s'ajoute une hausse des
 températures due au changement climatique. Les villes doivent donc
 prendre des mesures pour rester vivables à long terme.
 
-![La station météorologique VLINDER à la VUB](figures/vlinder-vub.png)
+![La station météorologique VLINDER à la VUB](/assets/images/about/vlinder-vub.png)
 
 ### L'impact sur la santé et le confort 
 
@@ -65,8 +65,8 @@ ce qui entraîne des problèmes tels que la prolifération d'algues, la
 mort de poissons due au botulisme et des risques potentiels pour le
 peuple.
 
-![L'avenue Anspach, avant. Source: Google streetview.](figures/anspach_vroeger.png)
-![L'avenue Anspach, aujourd'hui. Source: Google streetview.](figures/anspach_nu.png)
+![L'avenue Anspach, avant. Source: Google streetview.](/assets/images/about/anspach_vroeger.png)
+![L'avenue Anspach, aujourd'hui. Source: Google streetview.](/assets/images/about/anspach_nu.png)
 
 ### Verdir pour refroidir 
 
@@ -83,7 +83,7 @@ utilisent l'énergie solaire pour évaporer cette eau. L'énergie convertie ne
 peut donc plus être utilisée pour réchauffer la surface. L'illustration
 ci-dessous montre le lien entre la végétation et l'évaporation.
 
-![Le cycle d'eau dans la ville et en dehors.](figures/urban_rural_hydrology.jpg)
+![Le cycle d'eau dans la ville et en dehors.](/assets/images/about/urban_rural_hydrology.jpg)
 
 ### L'impact sur la chaleur, le vent et l'eau 
 
@@ -97,7 +97,7 @@ végétation capte l'eau de pluie, qui est absorbée lentement ou
 s'évapore, réduisant ainsi les inondations. Les arbres et les plantes
 améliorent également l'absorption de l'eau dans le sol (l'infiltration).
 
-![L'environnement urbain et rurale](figures/urban_rural.png)
+![L'environnement urbain et rurale](/assets/images/about/urban_rural.png)
 
 ### Le rôle de l'eau dans la ville
 
@@ -118,4 +118,4 @@ s'infiltrer lentement. C'est important pour maintenir le niveau des
 nappes phréatiques en période de sécheresse.
 
 ![Des solutions pour l’effet d’ilot de chaleur urbain
-(Wageningen University & Research)](figures/klimaatadaptatie.jpg)
+(Wageningen University & Research)](/assets/images/about/klimaatadaptatie.jpg)
