@@ -14,4 +14,4 @@ cover:
 
 For the annual Day of Science, a Science Festival was organized at Brussels' MuntPunt library. On 26 November 2023, science fans of all ages played the LEGO urban climate game and learned about climate adaptation and AI through play.
 
-!(Banner science festival)[/assets/images/events/logo-wetenschapsfestival.jpeg]
+!(Banner science festival)[/assets/images/events/logo-wetenschapsfestival.jpg]
