@@ -18,7 +18,7 @@ aanwezigheid van gebouwen kan deze warmte niet makkelijk ontsnappen.  Bovendien
 verhinderen gebouwen een goede ventilatie waardoor de warmte in de stad blijft
 hangen.
 
-![In de linker figuur ziet u de temperatuur en in de rechter figuur ziet u de vegetatiekaart van New York. Op plaatsen met weinig vegetatie is de temperatuur gemiddeld hoger. Bron: NASA via Wikimedia Commons](figures/new_york_UHI.png)
+![In de linker figuur ziet u de temperatuur en in de rechter figuur ziet u de vegetatiekaart van New York. Op plaatsen met weinig vegetatie is de temperatuur gemiddeld hoger. Bron: NASA via Wikimedia Commons](/assets/images/about/new_york_UHI.png)
 
 ## Meten is weten
 
@@ -38,7 +38,7 @@ temperatuur in de stad neemt toe. Daarbovenop komt een stijging in
 temperatuur door de klimaatverandering. Steden moeten dus actie
 ondernemen om de stad leefbaar te houden op lange termijn.
 
-![Het VLINDER-weerstation op de VUB, in Etterbeek](figures/vlinder-vub.png)
+![Het VLINDER-weerstation op de VUB, in Etterbeek](/assets/images/about/vlinder-vub.png)
 
 ## Effect op gezondheid en comfort
 
@@ -58,8 +58,8 @@ Het hitte-eiland effect maakt ook stedelijk regenwater warmer, wat leidt
 tot problemen zoals algenbloei, vissterfte, botulisme en mogelijke
 risico's voor mensen.
 
-![De Anspachlaan, vroeger. Bron: Google Streetview](figures/anspach_vroeger.png)
-![De Anspachlaan, nu. Bron: Google Streetview](figures/anspach_nu.png)
+![De Anspachlaan, vroeger. Bron: Google Streetview](/assets/images/about/anspach_vroeger.png)
+![De Anspachlaan, nu. Bron: Google Streetview](/assets/images/about/anspach_nu.png)
 
 ## Vergroenen om te verkoelen
 
@@ -75,7 +75,7 @@ te verdampen. De omgezette energie kan dus niet meer worden gebruikt om het
 oppervlak op te warmen, wat er voor zorgt dat planten koeling bieden. De
 illustratie hieronder toont het verband tussen vegetatie en verdamping.
 
-![De watercyclus in de stad en daarbuiten. Bron: USEPA, 2008.](figures/urban_rural_hydrology.jpg)
+![De watercyclus in de stad en daarbuiten. Bron: USEPA, 2008.](/assets/images/about/urban_rural_hydrology.jpg)
 
 ## Invloed op hitte, wind en water 
 
@@ -88,7 +88,7 @@ op, wat vervolgens langzaam naar de grond sijpelt of verdampt, waardoor
 wateroverlast afneemt. Bomen en planten versterken ook waterabsorptie in
 de bodem, een fenomeen bekend als infiltratie.
 
-![Stedelijke vs plattelandsomgeving](figures/urban_rural.png)
+![Stedelijke vs plattelandsomgeving](/assets/images/about/urban_rural.png)
 
 ## Rol van water in de stad 
 
@@ -106,4 +106,4 @@ bufferbekkens - om het regenwater op te vangen en traag te laten
 infiltreren. Dit is belangrijk om het grondwaterniveau op peil te houden
 in tijden van droogte.
 
-![Oplossingen voor het stedelijk hitte-eilandeffect. Bron: Wageningen University & Research](figures/klimaatadaptatie.jpg)
+![Oplossingen voor het stedelijk hitte-eilandeffect. Bron: Wageningen University & Research](/assets/images/about/klimaatadaptatie.jpg)
