@@ -32,8 +32,11 @@ languages:
           <script>
             var params = new URLSearchParams(location.search);
             if (params.has("image")) {
-              var id = params.get("image").replace(/^Analysis_([0-9]{2})_([0-9]{2})_([0-9]{4})_([0-9]{2})_([0-9]{2})_([0-9]{2})$/, '$3$2$1-$4$5$6');
-              window.location.replace("/analysis/" + id);
+              // Redirect to old website
+              window.location.replace("https://assam.urbanclimate.be/?image=" + params.get("image"));
+              // Redirect to page on current website
+              // var id = params.get("image").replace(/^Analysis_([0-9]{2})_([0-9]{2})_([0-9]{4})_([0-9]{2})_([0-9]{2})_([0-9]{2})$/, '$3$2$1-$4$5$6');
+              // window.location.replace("/analysis/" + id);
             }
           </script>
 
