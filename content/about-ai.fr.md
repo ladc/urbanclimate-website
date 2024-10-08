@@ -3,7 +3,7 @@ title: "En savoir plus - Intelligence artificelle"
 ShowToc: true
 ---
 
-## L''IA au service de la météorologie et de l''adaptation au changement climatique'
+## L'IA au service de la météorologie et de l'adaptation au changement climatique
 
 ### Qu'est-ce que l'IA ?
 
@@ -24,7 +24,7 @@ modèles de langage, comme chatGPT, s'améliorent de plus en plus. L'IA a
 de plus en plus d'applications pratiques, y compris dans le domaine
 scientifique.
 
-![AlphaGo, une IA développée par DeepMind, bat Lee Sedol, le champion du monde de go. (AlphaGo - the Movie)](assets/images/about/alphago.jpeg)
+![AlphaGo, une IA développée par DeepMind, bat Lee Sedol, le champion du monde de go. (AlphaGo - the Movie)](/assets/images/about/alphago.jpeg)
 
 ### L'IA pour la météorologie
 
@@ -44,7 +44,7 @@ température d’une résolution plus faible à une
 résolution plus élevée. Dans la ﬁgure de droite, vous
 pouvez voir beaucoup plus clairement l’impact local
 sur la température. (Downscaling weather data via
-VineForecast)](assets/images/about/Knipsel.PNG)
+VineForecast)](/assets/images/about/Knipsel.PNG)
 
 Calcul du climat urbain Les villes ont un climat unique en raison du
 grand nombre de bâtiments et de rues qui les composent. Pendant la
@@ -52,7 +52,7 @@ journée, ils stockent la lumière du soleil sous forme d'énergie, qui est
 émise sous forme de chaleur pendant la nuit. Cet effet d'îlot de chaleur
 urbain fait que les villes sont plus chaudes la nuit que les zones
 rurales environnantes. En outre, l'activité humaine produit localement
-de la chaleur supplémentaire (chauffage, voitures, etc.).\
+de la chaleur supplémentaire (chauffage, voitures, etc.). 
 La prévision du climat urbain est complexe car les modèles
 météorologiques traditionnels ont tendance à fonctionner à grande
 échelle. La finesse du paysage urbain crée des microclimats qui peuvent
@@ -71,7 +71,7 @@ la nécessité de disposer d'espaces verts, de matériaux réfléchissants et
 d'une architecture appropriée pour contrer l'augmentation des
 températures dans les zones urbaines.
 
-![Un modèle climatique urbain, tel que le TEB (Town Energy Balance), est très complexe. (CNRM, MétéoFrance)](assets/images/about/TEB.png)
+![Un modèle climatique urbain, tel que le TEB (Town Energy Balance), est très complexe. (CNRM, MétéoFrance)](/assets/images/about/TEB.png)
 
 ### L'IA au service du climat urbain
 
@@ -119,7 +119,7 @@ l'atelier d'aujourd'hui.
 ![A gauche : la carte de la couverture du sol de Gand
 (https://www.geopunt.be/). A droite : l’effet
 d’îlot de chaleur pour Gand pour une nuit d’été
-pendant une vague de chaleur prédite par notre IA.](assets/images/about/picture3.PNG)
+pendant une vague de chaleur prédite par notre IA.](/assets/images/about/picture3.PNG)
 
 ### Remerciements
 
