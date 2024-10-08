@@ -12,8 +12,6 @@ Dit is een project van het departement Electronica and Informatica (ETRO) van de
 
 ***
 
-[![UGent](/assets/images/partners/logo-ugent-nl.png)](https://www.ugent.be/)
 
-[![RMI](/assets/images/partners/logo-kmi.jpg)](https://www.meteo.be/)
-
-[![KdG](/assets/images/partners/logo-KdG.png)](https://www.kdg.be/)
+[![RMI](/assets/images/partners/logo-kmi.jpg)](https://www.meteo.be/) 
+[![UGent](/assets/images/partners/logo-ugent-nl.png)](https://www.ugent.be/) [![KdG](/assets/images/partners/logo-KdG.png)](https://www.kdg.be/)
