@@ -12,8 +12,8 @@ This is a project by the Electronics and Informatics (ETRO) department of VUB an
 
 ***
 
-[![UGent](/assets/images/partners/logo-ugent-nl.jpg)](https://www.ugent.be/)
+[![UGent](/assets/images/partners/logo-ugent-nl.png)](https://www.ugent.be/)
 
-[![RMI](/assets/images/partners/logo-kmi-irm.jpg)](https://www.meteo.be/)
+[![RMI](/assets/images/partners/logo-kmi.pjg](https://www.meteo.be/)
 
-[![KdG](/assets/images/partners/logo-KdG.jpg)](https://www.kdg.be/)
+[![KdG](/assets/images/partners/logo-KdG.png)](https://www.kdg.be/)
