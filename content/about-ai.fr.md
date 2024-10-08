@@ -1,7 +1,8 @@
-  ---
+---
 title: "En savoir plus - Intelligence artificelle"
 ShowToc: true
 ---
+
 ## L''IA au service de la météorologie et de l''adaptation au changement climatique'
 
 ### Qu'est-ce que l'IA ?
