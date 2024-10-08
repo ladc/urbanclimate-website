@@ -123,9 +123,4 @@ l'atelier d'aujourd'hui.
 d’îlot de chaleur pour Gand pour une nuit d’été
 pendant une vague de chaleur prédite par notre IA.](/assets/images/about/picture3.PNG)
 
-### Remerciements
-
-Ce projet a été financé par Innoviris et réalisé en
-partenariat entre la VUB, l'IRM et l'UGent.
-
 Envie d'en savoir plus ? Découvrez le [Master in Applied Computer Science](https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-applied-computer-science/program/master/master-applied-computer-science) à la [VUB](https://www.vub.be)
