@@ -12,4 +12,4 @@ title: "En savoir plus"
 
 ## Observations citoyennes
 
-[En savoir plus...]({{< ref "about-observations.fr.md" >}})
+[En savoir plus... (en anglais)](https://vlinder.ugent.be/en/index.html)
