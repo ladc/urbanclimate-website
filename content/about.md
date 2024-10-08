@@ -12,4 +12,4 @@ title: "Meer weten"
 
 ## Crowdsourced observaties
 
-[Meer weten...]({{< ref "about-observations.md" >}})
+[Meer weten...](https://vlinder.ugent.be/index.html)
