@@ -46,7 +46,9 @@ pouvez voir beaucoup plus clairement l’impact local
 sur la température. (Downscaling weather data via
 VineForecast)](/assets/images/about/Knipsel.PNG)
 
-Calcul du climat urbain Les villes ont un climat unique en raison du
+### Calcul du climat urbain 
+
+Les villes ont un climat unique en raison du
 grand nombre de bâtiments et de rues qui les composent. Pendant la
 journée, ils stockent la lumière du soleil sous forme d'énergie, qui est
 émise sous forme de chaleur pendant la nuit. Cet effet d'îlot de chaleur
