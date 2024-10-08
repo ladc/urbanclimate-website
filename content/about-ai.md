@@ -26,7 +26,7 @@ praktische toepassingen, ook in de wetenschap.
 
 ![AlphaGo, een AI ontwikkeld door
 DeepMind, verslaat Lee Sedol, de
-wereldkampioen Go](assets/images/about/alphago.jpeg)
+wereldkampioen Go](/assets/images/about/alphago.jpeg)
 
 ### AI voor weerkunde
 
@@ -43,7 +43,7 @@ meer rekenkracht. Een alternatief is om de modellen te verfijnen met AI.
 ![Het effect van resolutie: Het verﬁjnen van een
 temperatuursvoorspelling van een lagere naar
 hogere resolutie. In de rechterﬁguur zie je veel
-duidelijker de lokale impact op de temperatuur.](assets/images/about/Knipsel.PNG)
+duidelijker de lokale impact op de temperatuur.](/assets/images/about/Knipsel.PNG)
 
 ### Berekenen van het stadsklimaat
 
@@ -70,7 +70,7 @@ gelegd op de behoefte aan groene ruimten, reflecterende materialen en
 aangepaste architectuur om de stijgende temperaturen in stedelijke
 gebieden tegen te gaan.
 
-![image](assets/images/about/TEB.png)
+![image](/assets/images/about/TEB.png)
 
 ### AI voor het stedelijk klimaat
 
@@ -112,6 +112,6 @@ voor een zomernacht tijdens een hittegolf. Dit AI-model op basis van het
 VLINDER netwerk wordt vandaag ook gebruikt als stadsklimaatmodel voor
 deze workshop.
 
-![image](assets/images/about/picture3.PNG)
+![image](/assets/images/about/picture3.PNG)
 
 Meer leren? Ontdek de [Master in Applied Computer Science](https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-applied-computer-science/program/master/master-applied-computer-science) aan de [VUB](https://www.vub.be)
