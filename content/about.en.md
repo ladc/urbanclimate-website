@@ -12,4 +12,4 @@ title: "About"
 
 ## Crowdsourced observations
 
-[More info...]({{< ref "about-observations.en.md" >}})
+[More info...](https://vlinder.ugent.be/en/index.html)
