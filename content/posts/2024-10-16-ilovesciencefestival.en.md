@@ -7,9 +7,9 @@ summary: ""
 tags: ["festival", "news", "Brussels"]
 categories: ["event"]
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "/assets/images/events/photos/ilovesciencefestival2024_0.jpg"
+  alt: "I Love Science Festival, 11-13 October 2024, Brussels"
+  caption: "I Love Science Festival, 11-13 October 2024, Brussels"
 ---
 
 With the support of Innoviris, we were able to significantly upgrade and expand our workshop for this edition of the I Love Science Festival. The 4 beautiful new LEGO temperature boxes attracted a lot of attention and participants.
