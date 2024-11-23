@@ -2,7 +2,7 @@
 title: "Partners"
 ---
 
-This is a project by the Electronics and Informatics (ETRO) department of VUB and financed by Innoviris. We warmly thank our colleagues from the Royal Meteorological Institute of Belgium, Ghent University, and the students of Karel de Grote Hogeschool for their contributions to and support for this project.  
+This project was realised by the Electronics and Informatics (ETRO) department of VUB and financed by Innoviris. We warmly thank our colleagues from the Royal Meteorological Institute of Belgium, Ghent University, and the students of Karel de Grote Hogeschool for their contributions to and support for this project.  
 
 *** 
 

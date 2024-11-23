@@ -3,8 +3,9 @@ title: "Partenaires"
 ---
 
 
-This is a project by the Electronics and Informatics (ETRO) department of VUB and financed by Innoviris. We warmly thank our colleagues from the Royal Meteorological Institute of Belgium, Ghent University, and the students of Karel de Grote Hogeschool for their contributions to and support for this project.  
+Ce projet a été realisé par le département [ETRO](https://www.etrovub.be/) de la [Vrije Universiteit Brussel](https://www.vub.be/), avec le soutien de [Innoviris](https://innoviris.brussels/).
 
+Nous remercions chaleureusement nos collègues de l'Institut Royal Météorologique de Belgique, de l'Université de Gand et les étudiants de la Karel de Grote Hogeschool pour leur contribution et leur soutien à ce projet.
 *** 
 
 [![ETRO VUB](/assets/images/partners/logo-vub-etro.png)](https://www.etrovub.be/)
@@ -13,4 +14,5 @@ This is a project by the Electronics and Informatics (ETRO) department of VUB an
 
 ***
 
-[![RMI](/assets/images/partners/logo-kmi.jpg)](https://www.meteo.be/) [![UGent](/assets/images/partners/logo-ugent-en.png)](https://www.ugent.be/) [![KdG](/assets/images/partners/logo-KdG.png)](https://www.kdg.be/)
+
+[![RMI](/assets/images/partners/logo-kmi.jpg)](https://www.meteo.be/)[![UGent](/assets/images/partners/logo-ugent-en.png)](https://www.ugent.be/)[![KdG](/assets/images/partners/logo-KdG.png)](https://www.kdg.be/)
