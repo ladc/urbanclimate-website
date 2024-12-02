@@ -20,7 +20,7 @@ Sinds 2012 heeft AI een enorme sprong voorwaarts gemaakt dankzij
 ontwikkelingen in *deep learning* (artificiële neurale netwerken met
 zeer veel lagen), samen met krachtigere computers. Met de kracht van
 deep learning worden technologieën zoals zelfrijdende auto's, virtuele
-assistenten (Siri, Google Assistant, Alexa,\...), en diensten gebaseerd
+assistenten (Siri, Google Assistant, Alexa,...), en diensten gebaseerd
 op grote taalmodellen, zoals chatGPT, steeds beter. AI heeft steeds meer
 praktische toepassingen, ook in de wetenschap.
 
@@ -52,7 +52,7 @@ vele gebouwen en straten. Overdag slaan ze zonlicht op als energie, die
 's nachts als warmte wordt uitgestraald. Dit stedelijk hitte-eiland
 effect zorgt ervoor dat steden 's nachts warmer zijn dan omliggende
 landelijke gebieden. Daar bovenop wordt er door menselijke activiteit
-lokaal extra warmte geproduceerd (bvb. verwarming, auto's, \...). Het
+lokaal extra warmte geproduceerd (bvb. verwarming, auto's,...). Het
 voorspellen van het stadsklimaat is complex omdat traditionele
 weermodellen meestal op grotere schalen werken. Het fijnmazige
 stadslandschap zorgt voor microklimaten die sterk kunnen verschillen
