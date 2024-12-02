@@ -7,9 +7,9 @@ summary: ""
 tags: ["festival", "nouvelles", "Bruxelles"]
 categories: ["event"]
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "/assets/images/events/photos/ilovesciencefestival2023_0.jpg"
+  alt: "Participants au I Love Science Festival, 13-15 octobre 2023"
+  caption: "Participants au I Love Science Festival, 13-15 octobre 2023"
 ---
 
 Le jeu LEGO Urban Climate Game a été présenté pour la première fois au [I Love Science Festival](https://www.ilovescience.brussels/nl/home).
