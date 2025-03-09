@@ -9,7 +9,7 @@ ShowToc: true
 
 In het begin van de 19e eeuw ontdekte de Londense chemicus Luke Howard dat stedelijke klimaten verschillen van hun landelijke tegenhangers. Na jaren van metingen in en rond Londen merkte hij hogere temperaturen op in steden, vooral 's nachts en in de winter. Dit fenomeen werd later het stedelijk hitte-eilandeffect genoemd. Het stadsklimaat, gekenmerkt door hogere temperaturen en lagere windsnelheden, is nu een belangrijk onderzoeksonderwerp, mede omdat meer dan de helft van de wereldbevolking in steden woont. Overdag absorberen materialen zonnestraling en 's nachts geven ze warmte af. De aanwezigheid van gebouwen belemmert echter de ontsnapping van deze warmte. Daarnaast verhinderen de gebouwen een goede ventilatie, waardoor de warmte in de stad blijft hangen.
 
-![In de linker figuur ziet u de temperatuur en in de rechter figuur de vegetatiekaart van New York. Op plaatsen met weinig vegetatie is de temperatuur gemiddeld hoger. Bron: NASA via Wikimedia Commons](/assets/images/about/new_york_UHI.png)
+![In de linker figuur ziet u de temperatuur en in de rechter figuur de vegetatiekaart van New York. Op plaatsen met weinig vegetatie is de temperatuur gemiddeld hoger. Bron: NASA via Wikimedia Commons](images/about/new_york_UHI.png)
 
 #### Meten is weten
 
@@ -17,7 +17,7 @@ Systematische metingen zijn essentieel om het stadsklimaat te begrijpen en goede
 
 Doordat steden uitbreiden en dichter bebouwd worden, neemt de intensiteit van het stedelijk hitte-eiland toe. Dit leidt tot hogere temperaturen in steden, bovenop de stijging door klimaatverandering. Steden moeten actie ondernemen om op lange termijn leefbaar te blijven.
 
-![Het VLINDER-weerstation op de VUB, in Etterbeek](/assets/images/about/vlinder-vub.png)
+![Het VLINDER-weerstation op de VUB, in Etterbeek](images/about/vlinder-vub.png)
 
 #### Effect op gezondheid en comfort
 
@@ -25,8 +25,8 @@ In steden zoals Brussel kunnen dichtbebouwde gebieden tijdens een hete nacht wel
 
 Hitte verhoogt ook het energieverbruik voor koeling, wat, als het op fossiele brandstoffen is gebaseerd, bijdraagt aan broeikasgasemissies. Het hitte-eilandeffect maakt stedelijk regenwater ook warmer, wat problemen veroorzaakt zoals algenbloei, vissterfte en mogelijke risico's voor de volksgezondheid.
 
-![De Anspachlaan, vroeger. Bron: Google Streetview](/assets/images/about/anspach_vroeger.png)  
-![De Anspachlaan, nu. Bron: Google Streetview](/assets/images/about/anspach_nu.png)
+![De Anspachlaan, vroeger. Bron: Google Streetview](images/about/anspach_vroeger.png)  
+![De Anspachlaan, nu. Bron: Google Streetview](images/about/anspach_nu.png)
 
 #### Vergroenen om te verkoelen
 
@@ -34,13 +34,13 @@ Het verminderen van verharde oppervlakken in steden is essentieel om verkoeling 
 
 De illustratie hieronder toont het verband tussen vegetatie en verdamping.
 
-![De watercyclus in de stad en daarbuiten. Bron: USEPA, 2008.](/assets/images/about/urban_rural_hydrology.jpg)
+![De watercyclus in de stad en daarbuiten. Bron: USEPA, 2008.](images/about/urban_rural_hydrology.jpg)
 
 #### Invloed op hitte, wind en water
 
 De effectiviteit van verkoeling hangt af van het groenvolume en de biomassa. Grotere bomen met dichte kronen koelen beter dan kleinere bomen. Vegetatie vermindert ook pieken in waterafvoer door regenwater vast te houden en langzaam te laten infiltreren in de grond.
 
-![Stedelijke en plattelandsomgeving](/assets/images/about/urban_rural.png)
+![Stedelijke en plattelandsomgeving](images/about/urban_rural.png)
 
 #### Rol van water in de stad
 
@@ -48,4 +48,4 @@ Stedelijk water zorgt overdag voor verkoeling, maar geeft 's nachts warmte af al
 
 Bovendien helpen elementen als wadi's - een soort natuurlijke bufferbekkens - om het regenwater op te vangen en traag te laten infiltreren. Dit is belangrijk om het grondwaterniveau op peil te houden in tijden van droogte.
 
-![Oplossingen voor het stedelijk hitte-eilandeffect. Bron: Wageningen University & Research](/assets/images/about/klimaatadaptatie.jpg)
+![Oplossingen voor het stedelijk hitte-eilandeffect. Bron: Wageningen University & Research](images/about/klimaatadaptatie.jpg)

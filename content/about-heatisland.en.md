@@ -9,7 +9,7 @@ ShowToc: true
 
 In the early 19th century, London chemist Luke Howard discovered that urban climates differ from their rural counterparts. After years of measurements in and around London, he observed higher urban temperatures, especially at night and during winter. This phenomenon was later named the urban heat island effect. The urban climate, characterized by higher temperatures and lower wind speeds, has become an important research subject, especially since more than half of the world's population lives in cities. During the day, materials absorb solar radiation, and at night they release heat. However, the presence of buildings prevents this heat from escaping easily, and the lack of proper ventilation causes the heat to linger in the city.
 
-![On the left, you see the temperature map, and on the right, the vegetation map of New York. Areas with less vegetation tend to have higher average temperatures. Source: NASA via Wikimedia Commons](/assets/images/about/new_york_UHI.png)
+![On the left, you see the temperature map, and on the right, the vegetation map of New York. Areas with less vegetation tend to have higher average temperatures. Source: NASA via Wikimedia Commons](images/about/new_york_UHI.png)
 
 #### Measuring is Knowing
 
@@ -17,7 +17,7 @@ Systematic measurements are essential to understand the urban climate and to cre
 
 As cities expand and become more densely built, the intensity of the urban heat island effect increases, leading to rising urban temperatures. This is compounded by global climate change. Therefore, cities must take action to remain livable in the long term.
 
-![The VLINDER weather station at the VUB, in Etterbeek](/assets/images/about/vlinder-vub.png)
+![The VLINDER weather station at the VUB, in Etterbeek](images/about/vlinder-vub.png)
 
 #### Impact on Health and Comfort
 
@@ -25,8 +25,8 @@ In cities like Brussels, densely built areas can be up to 10 °C warmer than the
 
 Heat also increases energy consumption for cooling, which, if fossil fuel-based, contributes to greenhouse gas emissions. The heat island effect also warms urban rainwater, causing problems like algae blooms, fish deaths, and potential public health risks.
 
-![Anspachlaan, in the past. Source: Google Streetview](/assets/images/about/anspach_vroeger.png)  
-![Anspachlaan, now. Source: Google Streetview](/assets/images/about/anspach_nu.png)
+![Anspachlaan, in the past. Source: Google Streetview](images/about/anspach_vroeger.png)  
+![Anspachlaan, now. Source: Google Streetview](images/about/anspach_nu.png)
 
 #### Greening to Cool
 
@@ -34,13 +34,13 @@ Reducing paved surfaces in cities is essential for cooling, with green spaces an
 
 The illustration below shows the relationship between vegetation and evaporation.
 
-![The water cycle in urban and rural areas. Source: USEPA, 2008.](/assets/images/about/urban_rural_hydrology.jpg)
+![The water cycle in urban and rural areas. Source: USEPA, 2008.](images/about/urban_rural_hydrology.jpg)
 
 #### Impact on Heat, Wind, and Water
 
 The cooling effect depends on the amount of greenery and biomass. Larger trees with dense canopies cool more effectively than smaller ones. Vegetation also reduces water runoff peaks by holding rainwater and slowly allowing it to infiltrate the ground.
 
-![Urban and rural environments](/assets/images/about/urban_rural.png)
+![Urban and rural environments](images/about/urban_rural.png)
 
 #### The Role of Water in the City
 
@@ -48,4 +48,4 @@ Urban water bodies provide cooling during the day but release heat at night if t
 
 Moreover, features like wadis—a type of natural buffer basin—help to capture rainwater and slowly allow it to infiltrate. This is important for maintaining groundwater levels during periods of drought.
 
-![Solutions for the urban heat island effect. Source: Wageningen University & Research](/assets/images/about/klimaatadaptatie.jpg)
+![Solutions for the urban heat island effect. Source: Wageningen University & Research](images/about/klimaatadaptatie.jpg)

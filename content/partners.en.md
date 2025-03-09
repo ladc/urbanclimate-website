@@ -6,10 +6,10 @@ This project was realised by the Electronics and Informatics (ETRO) department o
 
 *** 
 
-[![ETRO VUB](/assets/images/partners/logo-vub-etro.png)](https://www.etrovub.be/)
+[![ETRO VUB](images/partners/logo-vub-etro.png)](https://www.etrovub.be/)
 
-[![Innoviris](/assets/images/partners/logo-innoviris.jpg)](https://innoviris.brussels/)
+[![Innoviris](images/partners/logo-innoviris.jpg)](https://innoviris.brussels/)
 
 ***
 
-[![RMI](/assets/images/partners/logo-kmi.jpg)](https://www.meteo.be/) [![UGent](/assets/images/partners/logo-ugent-en.png)](https://www.ugent.be/) [![KdG](/assets/images/partners/logo-KdG.png)](https://www.kdg.be/)
+[![RMI](images/partners/logo-kmi.jpg)](https://www.meteo.be/) [![UGent](images/partners/logo-ugent-en.png)](https://www.ugent.be/) [![KdG](images/partners/logo-KdG.png)](https://www.kdg.be/)

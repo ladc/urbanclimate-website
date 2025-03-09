@@ -24,7 +24,7 @@ modèles de langage, comme chatGPT, s'améliorent de plus en plus. L'IA a
 de plus en plus d'applications pratiques, y compris dans le domaine
 scientifique.
 
-![AlphaGo, une IA développée par DeepMind, bat Lee Sedol, le champion du monde de go. (AlphaGo - the Movie)](/assets/images/about/alphago.jpeg)
+![AlphaGo, une IA développée par DeepMind, bat Lee Sedol, le champion du monde de go. (AlphaGo - the Movie)](images/about/alphago.jpeg)
 
 ### L'IA pour la météorologie
 
@@ -44,7 +44,7 @@ température d’une résolution plus faible à une
 résolution plus élevée. Dans la ﬁgure de droite, vous
 pouvez voir beaucoup plus clairement l’impact local
 sur la température. (Downscaling weather data via
-VineForecast)](/assets/images/about/Knipsel.PNG)
+VineForecast)](images/about/Knipsel.PNG)
 
 ### Calcul du climat urbain 
 
@@ -73,7 +73,7 @@ la nécessité de disposer d'espaces verts, de matériaux réfléchissants et
 d'une architecture appropriée pour contrer l'augmentation des
 températures dans les zones urbaines.
 
-![Un modèle climatique urbain, tel que le TEB (Town Energy Balance), est très complexe. (CNRM, MétéoFrance)](/assets/images/about/TEB.png)
+![Un modèle climatique urbain, tel que le TEB (Town Energy Balance), est très complexe. (CNRM, MétéoFrance)](images/about/TEB.png)
 
 ### L'IA au service du climat urbain
 
@@ -121,6 +121,6 @@ l'atelier d'aujourd'hui.
 ![A gauche : la carte de la couverture du sol de Gand
 (https://www.geopunt.be/). A droite : l’effet
 d’îlot de chaleur pour Gand pour une nuit d’été
-pendant une vague de chaleur prédite par notre IA.](/assets/images/about/picture3.PNG)
+pendant une vague de chaleur prédite par notre IA.](images/about/picture3.PNG)
 
 Envie d'en savoir plus ? Découvrez le [Master in Applied Computer Science](https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-applied-computer-science/program/master/master-applied-computer-science) à la [VUB](https://www.vub.be)

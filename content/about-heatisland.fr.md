@@ -8,7 +8,7 @@ ShowToc: true
 
 Au début du 19ème siècle, le chimiste londonien Luke Howard a observé que les climats urbains différaient de ceux des zones rurales. Après des années de mesures à Londres et dans ses environs, il a constaté que les températures urbaines étaient plus élevées, en particulier la nuit et en hiver. Ce phénomène a ensuite été nommé *îlot de chaleur urbain*. Le climat urbain, caractérisé par des températures plus élevées et des vitesses de vent plus faibles, est aujourd'hui un sujet de recherche majeur, notamment parce que plus de la moitié de la population mondiale vit en ville. Les matériaux des villes absorbent le rayonnement solaire pendant la journée et libèrent de la chaleur pendant la nuit. La présence des bâtiments empêche cette chaleur de s'échapper facilement. De plus, les bâtiments entravent une bonne ventilation, ce qui fait que la chaleur reste piégée en ville.
 
-![La carte de gauche montre la température et celle de droite la végétation à New York. La température est plus élevée là où la végétation est moins présente. Source : NASA via Wikimedia Commons](/assets/images/about/new_york_UHI.png)
+![La carte de gauche montre la température et celle de droite la végétation à New York. La température est plus élevée là où la végétation est moins présente. Source : NASA via Wikimedia Commons](images/about/new_york_UHI.png)
 
 ### Mesurer pour mieux comprendre
 
@@ -16,7 +16,7 @@ Des mesures systématiques sont essentielles pour comprendre le climat urbain et
 
 À mesure que les villes s'étendent et se densifient, l'intensité de l'effet d'îlot de chaleur urbain augmente. Autrement dit, les températures urbaines augmentent. À cela s'ajoute une hausse des températures liée au changement climatique. Les villes doivent donc prendre des mesures pour rester vivables à long terme.
 
-![La station météorologique VLINDER à la VUB, à Etterbeek](/assets/images/about/vlinder-vub.png)
+![La station météorologique VLINDER à la VUB, à Etterbeek](images/about/vlinder-vub.png)
 
 ### L'impact sur la santé et le confort
 
@@ -24,8 +24,8 @@ Dans des villes comme Bruxelles, les zones densément construites peuvent être 
 
 La chaleur augmente également la consommation d'énergie pour le refroidissement, ce qui, si l'énergie est produite à partir de combustibles fossiles, contribue aux émissions de gaz à effet de serre. L'effet d'îlot de chaleur urbain réchauffe également les eaux de pluie, ce qui entraîne des problèmes tels que la prolifération d'algues, la mort de poissons (souvent due au botulisme) et des risques pour la santé humaine.
 
-![L'avenue Anspach, avant. Source : Google Streetview.](/assets/images/about/anspach_vroeger.png)  
-![L'avenue Anspach, aujourd'hui. Source : Google Streetview.](/assets/images/about/anspach_nu.png)
+![L'avenue Anspach, avant. Source : Google Streetview.](images/about/anspach_vroeger.png)  
+![L'avenue Anspach, aujourd'hui. Source : Google Streetview.](images/about/anspach_nu.png)
 
 ### Verdir pour refroidir
 
@@ -33,13 +33,13 @@ La réduction des surfaces imperméables dans les villes est cruciale pour le re
 
 L'illustration ci-dessous montre le lien entre la végétation et l'évaporation.
 
-![Le cycle de l'eau en milieu urbain et rural. Source : USEPA, 2008.](/assets/images/about/urban_rural_hydrology.jpg)
+![Le cycle de l'eau en milieu urbain et rural. Source : USEPA, 2008.](images/about/urban_rural_hydrology.jpg)
 
 ### L'impact sur la chaleur, le vent et l'eau
 
 L'efficacité du refroidissement dépend du volume et de la densité de la verdure. Les grands arbres avec des couronnes denses refroidissent plus efficacement que les petits arbres ou ceux avec des couronnes plus légères. La végétation contribue également à réduire le ruissellement des eaux de pluie, en capturant l'eau qui s'infiltre lentement dans le sol ou s'évapore, diminuant ainsi les risques d'inondation.
 
-![Environnement urbain et rural](/assets/images/about/urban_rural.png)
+![Environnement urbain et rural](images/about/urban_rural.png)
 
 ### Le rôle de l'eau dans la ville
 
@@ -49,4 +49,4 @@ La combinaison de la végétation et des éléments "bleus" (comme les étangs, 
 
 Par ailleurs, des infrastructures comme les noues – des bassins tampons naturels – permettent de capter les eaux de pluie et de les laisser s'infiltrer lentement dans le sol, ce qui est essentiel pour maintenir les nappes phréatiques en période de sécheresse.
 
-![Des solutions pour l'effet d'îlot de chaleur urbain. Source : Wageningen University & Research](/assets/images/about/klimaatadaptatie.jpg)
+![Des solutions pour l'effet d'îlot de chaleur urbain. Source : Wageningen University & Research](images/about/klimaatadaptatie.jpg)

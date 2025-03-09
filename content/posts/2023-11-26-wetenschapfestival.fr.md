@@ -7,7 +7,7 @@ summary: "LEGO urban climate game au Festival des Sciences à Bruxelles."
 tags: ["festival", "nouvelles", "Bruxelles"]
 categories: ["event"]
 cover:
-  image: "/assets/images/events/photos/wetenschapsfestival2023.jpg"
+  image: "images/events/photos/wetenschapsfestival2023.jpg"
   alt: "Festival des Sciences, 26 novembre 2023, MuntPunt, Bruxelles"
   caption: "Festival des Sciences, 26 novembre 2023, MuntPunt, Bruxelles"
 ---
@@ -15,4 +15,4 @@ cover:
 
 À l'occasion de la Journée annuelle de la science, un festival scientifique a été organisé à la bibliothèque MuntPunt de Bruxelles. Le 26 novembre 2023, les amateurs de sciences de tous âges ont joué au jeu LEGO sur le climat urbain et se sont familiarisés avec l'adaptation au changement climatique et l'intelligence artificielle en jouant.
 
-![Banner festival des sciences](/assets/images/events/logo-wetenschapsfestival.jpg)
+![Banner festival des sciences](images/events/logo-wetenschapsfestival.jpg)
