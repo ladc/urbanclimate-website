@@ -7,7 +7,7 @@ summary: ""
 tags: ["festival", "nouvelles", "Bruxelles"]
 categories: ["event"]
 cover:
-  image: "/assets/images/events/photos/ilovesciencefestival2024_0.jpg"
+  image: "images/events/photos/ilovesciencefestival2024_0.jpg"
   alt: "I Love Science Festival, 11-13 octobre 2024, Bruxelles"
   caption: "I Love Science Festival, 11-13 octobre 2024, Bruxelles"
 ---
@@ -18,9 +18,8 @@ De nombreux enfants ont pu concevoir leur ville résistante au climat en LEGO et
 
 Ce fut une édition fantastique, avec de nombreux enfants enthousiastes et des parents qui ont participé à l'atelier. Nous attendons déjà avec impatience la prochaine édition!
 
-![Partie de l'équipe du jeu LEGO Urban Climate Game](/assets/images/events/photos/ilovesciencefestival2024_1.jpg)
+![Partie de l'équipe du jeu LEGO Urban Climate Game](images/events/photos/ilovesciencefestival2024_1.jpg)
 
-![Quelques villes modèles réalisées par les participants](/assets/images/events/photos/ilovesciencefestival2024_2.jpg)
+![Quelques villes modèles réalisées par les participants](images/events/photos/ilovesciencefestival2024_2.jpg)
 
-![La boîte de température LEGO](/assets/images/events/photos/ilovesciencefestival2024_3.jpg)
-
+![La boîte de température LEGO](images/events/photos/ilovesciencefestival2024_3.jpg)

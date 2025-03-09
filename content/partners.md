@@ -6,12 +6,12 @@ Dit is een project van het departement Electronica and Informatica (ETRO) van de
 
 *** 
 
-[![ETRO VUB](/assets/images/partners/logo-vub-etro.png)](https://www.etrovub.be/)
+[![ETRO VUB](images/partners/logo-vub-etro.png)](https://www.etrovub.be/)
 
-[![Innoviris](/assets/images/partners/logo-innoviris.jpg)](https://innoviris.brussels/)
+[![Innoviris](images/partners/logo-innoviris.jpg)](https://innoviris.brussels/)
 
 ***
 
 
-[![RMI](/assets/images/partners/logo-kmi.jpg)](https://www.meteo.be/) 
-[![UGent](/assets/images/partners/logo-ugent-nl.png)](https://www.ugent.be/) [![KdG](/assets/images/partners/logo-KdG.png)](https://www.kdg.be/)
+[![RMI](images/partners/logo-kmi.jpg)](https://www.meteo.be/) 
+[![UGent](images/partners/logo-ugent-nl.png)](https://www.ugent.be/) [![KdG](images/partners/logo-KdG.png)](https://www.kdg.be/)

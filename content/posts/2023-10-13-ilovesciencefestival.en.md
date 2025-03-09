@@ -7,7 +7,7 @@ summary: ""
 tags: ["festival", "news", "Brussels"]
 categories: ["event"]
 cover:
-  image: "/assets/images/events/photos/ilovesciencefestival2023_0.jpg"
+  image: "images/events/photos/ilovesciencefestival2023_0.jpg"
   alt: "Participants at the I Love Science Festival, 11-13 October 2023"
   caption: "Participants at the I Love Science Festival, 11-13 October 2023"
 ---

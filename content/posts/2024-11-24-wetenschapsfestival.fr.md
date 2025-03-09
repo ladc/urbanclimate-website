@@ -7,7 +7,7 @@ summary: "LEGO urban climate game remanié au Festival des Sciences de Bruxelles
 tags: ["festival", "nouvelles", "Bruxelles"]
 categories: ["event"]
 cover:
-  image: "/assets/images/events/photos/wetenschapsfestival2024_3.jpg"
+  image: "images/events/photos/wetenschapsfestival2024_3.jpg"
   alt: "Participants au Festival des Sciences de Bruxelles, 24 novembre 2024, MuntPunt, Bruxelles"
   caption: "Participants au Festival des Sciences de Bruxelles, 24 novembre 2024, MuntPunt, Bruxelles"
 ---
@@ -16,8 +16,8 @@ Pour la Journée annuelle de la Science, un Festival des Sciences a été organi
 
 Cette année, nous avons également étudié l'__impact__ du jeu sur la compréhension du changement climatique, de l'adaptation au climat et des attitudes des participants envers la science. Nous avons basé nos méthodes sur celles développées par [IMPACTLAB](https://impactlab.sites.uu.nl/). Gardez un œil sur le site web pour les résultats de cette recherche !
 
-![Un participant admire l'îlot de chaleur urbain de sa propre ville](/assets/images/events/photos/wetenschapsfestival2024_0.jpg)
+![Un participant admire l'îlot de chaleur urbain de sa propre ville](images/events/photos/wetenschapsfestival2024_0.jpg)
 
-![Un participant fait scanner sa ville améliorée dans la boîte à température](/assets/images/events/photos/wetenschapsfestival2024_1.jpg)
+![Un participant fait scanner sa ville améliorée dans la boîte à température](images/events/photos/wetenschapsfestival2024_1.jpg)
 
-![Notre équipe au festival des sciences 2024](/assets/images/events/photos/wetenschapsfestival2024_2.jpg)
+![Notre équipe au festival des sciences 2024](images/events/photos/wetenschapsfestival2024_2.jpg)
