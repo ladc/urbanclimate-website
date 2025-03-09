@@ -3,7 +3,8 @@
 baseURL: "https://urbanclimate.be/"
 title: LEGO Urban planner
 # copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: [PaperMod]
 
 # enableInlineShortcodes: true
