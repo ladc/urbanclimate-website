@@ -7,7 +7,7 @@ summary: ""
 tags: ["festival", "nieuws", "Brussel"]
 categories: ["event"]
 cover:
-  image: "images/events/photos/ilovesciencefestival2025.jpg"
+  image: "images/events/photos/ilovesciencefestival2025_3.jpg"
   alt: "I Love Science Festival, 10-12 oktober 2025, Brussel"
   caption: "I Love Science Festival, 10-12 oktober 2025, Brussel"
 ---
@@ -23,5 +23,3 @@ Het was fantastisch om zoveel nieuwsgierige kinderen en ouders samen te zien bou
 ![Sfeerbeelden van de LEGO Urban Climate Game op ILSF](images/events/photos/ilovesciencefestival2025_1.jpg)
 
 ![Enkele voorbeeldsteden gemaakt door de deelnemers](images/events/photos/ilovesciencefestival2025_2.jpg)
-
-![De LEGO temperatuurdoos](images/events/photos/ilovesciencefestival2025_3.jpg)
