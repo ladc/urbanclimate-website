@@ -7,7 +7,7 @@ summary: "De workshop 'Instant stadsklimaatmodel met AI' wint de Jaarprijs Weten
 tags: ["award", "nieuws", "KVAB", "Innoviris", "VUB", "KMI"]
 categories: ["award"]
 cover:
-  image: "images/events/photos/EMS_award_20260907.jpg"
+  image: "images/events/photos/KVAB_award_20251119.jpg"
   alt: "Uitreiking Jaarprijs Wetenschapscommunicatie 2025, Paleis der Academiën, Brussel"
   caption: "Uitreiking Jaarprijs Wetenschapscommunicatie 2025, 19 november 2025, Paleis der Academiën, Brussel"
 ---
